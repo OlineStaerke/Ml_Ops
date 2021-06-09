@@ -1,0 +1,22 @@
+{
+    "os": "Darwin-19.6.0-x86_64-i386-64bit",
+    "python": "3.6.4",
+    "heartbeatAt": "2021-06-09T06:44:56.753063",
+    "startedAt": "2021-06-09T06:44:54.793944",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train_model.py",
+    "codePath": "Desktop/Ml_Ops/src/models/train_model.py",
+    "git": {
+        "remote": null,
+        "commit": null
+    },
+    "email": "olinestaerke@hotmail.com",
+    "root": "/Users/olinestaerke",
+    "host": "Olines-MBP-5.entasis.local",
+    "username": "olinestaerke",
+    "executable": "/usr/local/bin/python3"
+}

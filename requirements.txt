@@ -15,3 +15,5 @@ argparse
 matplotlib.pyplot
 numpy
 sklearn
+torchvision
+tensorboard

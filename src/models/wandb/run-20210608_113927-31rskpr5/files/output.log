@@ -1,0 +1,4 @@
+Training day and night
+Namespace(lr=0.1)
+Epoch 1 		 Training Loss: 0.4821108202777628 		 Accuracy: 87.5
+Epoch 2 		 Training Loss: 0.28520932331530335 		 Accuracy: 90.625

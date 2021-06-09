@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "train_model.py", line 167, in <module>
+    TrainOREvaluate()
+  File "train_model.py", line 38, in __init__
+    getattr(self, args.command)()
+  File "train_model.py", line 41, in train
+    wandb.watch(model, log_freq=100)
+UnboundLocalError: local variable 'model' referenced before assignment

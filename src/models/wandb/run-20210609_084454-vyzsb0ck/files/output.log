@@ -1,0 +1,2 @@
+usage: python main.py <command>
+train_model.py: error: the following arguments are required: command
