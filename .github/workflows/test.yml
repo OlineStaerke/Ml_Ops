@@ -1,8 +1,6 @@
+name: "Run tests"
 
-name: "Run tests2"
-
-on:
-  push:
+on: push:
     branches: [ master ]
   pull_request:
     branches: [ master ]
