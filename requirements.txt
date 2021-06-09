@@ -17,3 +17,5 @@ numpy
 sklearn
 torchvision
 tensorboard
+pytest
+
